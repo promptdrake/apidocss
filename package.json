@@ -2,9 +2,9 @@
   "devDependencies": {
     "vitepress": "^1.6.3"
   },
-"scripts": {
-  "docs:dev": "vitepress dev .",
-  "docs:build": "vitepress build .",
-  "serve": "vitepress serve ."
-}
+  "scripts": {
+  "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  }
 }
