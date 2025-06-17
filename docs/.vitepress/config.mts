@@ -18,7 +18,7 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/start' },
           { text: 'Terms', link: '/terms' },
-           { text: 'Account Verification', link: '/accountverification' }
+       /*    { text: 'Account Verification', link: '/accountverification' }*/
         ]
       },
         {
@@ -35,14 +35,14 @@ export default defineConfig({
                                          { text: 'Check All Status', link: '/smm/orderstatus' }
         ]
       },
-       
+       /*
        {
         text: 'Switch Qris',
          collapsed: true,
         items: [
           { text: 'Installation', link: '/switchqris/installation' }
         ]
-      },
+      },*/
        {
         text: 'Auto Order Api',
          collapsed: true,
