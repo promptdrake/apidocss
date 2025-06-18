@@ -1,4 +1,6 @@
 # Place SMM Order with QRIS Payment REST API Documentation
+How we work?
+![Order Flow](/flowchart.png)
 
 ## Endpoint
 

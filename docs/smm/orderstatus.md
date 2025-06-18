@@ -52,7 +52,7 @@ Authorization: Bearer YOUR_API_KEY
             "productId": "38311",
             "namaproduk": "Instagram Likes [ Max 1M ] | Low Quality | Cancel Enable | No Refill ⚠️ | Instant | Day 200K",
             "totalFoll": 5000,
-            "target": "https://www.instagram.com/p/DKwt-RwSd05/",
+            "target": "https://www.instagram.com/p/DJEgY6xvigX",
             "price": 197,
             "isFullgaransi": "0",
             "date": "6/3/2025, 4:30:52 PM",
