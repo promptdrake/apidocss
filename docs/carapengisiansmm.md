@@ -27,7 +27,7 @@ Jika sudah paham bisa langsung kembali ke
 
 - **Live Stream**  
     **Format:** Link live video  
-    **Contoh:** [https://youtu.be/HowL3LNXoz8](https://youtu.be/HowL3LNXoz8)
+    **Contoh:** [https://www.youtube.com/live/1ypsHVk9zoo?si=OlPRZ4wzSJXYXCoH](https://www.youtube.com/live/1ypsHVk9zoo?si=OlPRZ4wzSJXYXCoH)
 
 - **Subscribers**  
     **Format:** Link channel  
