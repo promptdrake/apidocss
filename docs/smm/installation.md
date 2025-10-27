@@ -1,0 +1,1 @@
+> **Note:** You need to prepare an API key from [client.aisbirnusantara.com](https://client.aisbirnusantara.com).
